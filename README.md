@@ -1,16 +1,13 @@
 # dashboard
 
-A new Flutter project.
+Output Screenshot
+![image](https://github.com/Pratham446/Fitness-Dashboard-UI/assets/161615270/992345fd-7bf0-46a1-9bce-0f45ce9f582d)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Pratham446/Fitness-Dashboard-UI/assets/161615270/33d50a41-d4ed-4568-aae1-19d039f10bb0)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Pratham446/Fitness-Dashboard-UI/assets/161615270/fc2a3c43-d154-4405-9566-209331950beb)
+
+
